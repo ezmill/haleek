@@ -30,6 +30,7 @@ function Title(INDEX){
             reflectivity: 1.0,
             shading: THREE.FlatShading,
             side: 2
+            //what
         })
 
         // this.mesh = new THREE.SkinnedMesh( GEO, this.mat );
